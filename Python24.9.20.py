@@ -1,14 +1,14 @@
 """simple sorting and all"""
-# A = [5522 , 4 , 2 , 1 , 21 , 56]
-# A.sort()
-# A.reverse()
-# B = [2 , 6, 4]
-# B.sort()
-# print(A)
-# print(B)
-# print(A,B)
-# A, B = B, A
-# print(A,B)
+A = [5522 , 4 , 2 , 1 , 21 , 56]
+A.sort()
+A.reverse()
+B = [2 , 6, 4]
+B.sort()
+print(A)
+print(B)
+print(A,B)
+A, B = B, A
+print(A,B)
 # """New"""
 # C = (5522 , 4 , 2 , 1 , 21 , 56)
 # """C.sort()"""
@@ -146,11 +146,11 @@
 #     elif i>=Chances:
 #         print("Game over, no more chances left")
 #         break
-while(True):
+***while(True):
     N = int(input("number"))
     if N<=100:
         continue
-    print(N)
+    print(N )***
   
 
 
