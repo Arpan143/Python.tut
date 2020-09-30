@@ -1,4 +1,4 @@
-operator = input("Enter operator = ")
+***operator = input("Enter operator = ")
 Num1 = int(input("enter number 1 = "))
 Num2 = int(input("enter number 2 = "))
 if operator == "*" :
