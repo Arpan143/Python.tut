@@ -1,4 +1,4 @@
-A=float(input("enter number 1 = "))
+# A=float(input("enter number 1 = "))
 # B=float(input("enter number 2 = "))
 # if A*B<=1000:
 #     print(int(A*B))
